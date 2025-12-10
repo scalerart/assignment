@@ -1,17 +1,3 @@
-/* 
-.roboto-<uniquifier> {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-
-.poppins-bold {
-  font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-*/
 :root {
     --font-family: "Poppins", sans-serif;
     --background-color: #F0FFF0;
