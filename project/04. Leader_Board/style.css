@@ -13,7 +13,7 @@ body {
 }
 
 /* navbar */
-.navbar img{
+.navbar img {
     max-width: 40px;
 }
 
@@ -40,6 +40,7 @@ body {
     font-size: 16px;
     font-weight: 600;
 }
+
 /* Blog Section */
 .blog img {
     width: 177px;
@@ -69,11 +70,13 @@ body {
 .courses {
     border-radius: 5px;
 }
+
 .courses-head {
     color: var(--text-primary);
     font-size: 26px;
     font-weight: 600;
 }
+
 .courses-part img {
     width: 224px;
 }
@@ -82,6 +85,7 @@ body {
     font-size: 20px;
     font-weight: 600;
 }
+
 .courses-part p {
     font-size: 14px;
     color: var(--text-three);
